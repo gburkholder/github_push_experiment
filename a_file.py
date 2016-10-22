@@ -8,7 +8,7 @@ content = f_in.readlines()
 
 print "file read sucessful"
 
-print "Let's print some numbers!"
+print "Let's print even more numbers!"
 
 for number in content:
     print int(number)*3
